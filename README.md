@@ -7,7 +7,7 @@
         <th>내용</th>
     </tr>
     <tr>
-        <td>1</td>
+        <td>#1</td>
         <td>
             <img src="https://img.shields.io/badge/.Net-FFC000?style=for-the-badge&logo=.Net&logoColor=black"/>
             <img src="https://img.shields.io/badge/C%23-778CF7?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -16,21 +16,21 @@
         </td>
     </tr>
     <tr>
-        <td>2</td>
+        <td>#2</td>
         <td>
             <img src="https://img.shields.io/badge/visual studio-2C2255?style=for-the-badge&logo=visualstudio&logoColor=white"/>
             <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
         </td>
     </tr>
     <tr>
-        <td>3</td>
+        <td>#3</td>
         <td>
             <img src="https://img.shields.io/badge/Mysql-FFCA28?style=for-the-badge&logo=Mysql&logoColor=Black"/>
             <img src="https://img.shields.io/badge/Mssql-F80000?style=for-the-badge&logo=Microsoft SQL Server&logoColor=black"/>
         </td>
     </tr>
     <tr>
-        <td>4 Tools</td>
+        <td>#4</td>
         <td>
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
         </td>
