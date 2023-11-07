@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shovelbox&show_icons=true&theme=tokyonight)
+//![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shovelbox&show_icons=true&theme=tokyonight)
 
 ## ⛏ 기술스택
 <table>
