@@ -1,6 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shovelbox&show_icons=true&theme=tokyonight)
-![Github stats](https://github-readme-stats.vercel.app/api?username=shovelbox&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovelbox&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovelbox&layout=tokyonight)
 
 ## ⛏ 기술스택
 <table>
