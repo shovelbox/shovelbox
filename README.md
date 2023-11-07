@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shovelbox&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotMorten&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovelbox&layout=compact)
 
 
 ## ⛏ 기술스택
