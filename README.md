@@ -11,22 +11,7 @@
 
 <br/>
   
-<p align="center">
-  🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
-   </p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-<a href="https://discord.com/users/aashiszha" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
-<a href="https://aashisjha.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://fb.com/aashiszha" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
-<a href="https://twitter.com/aashiszha" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/aashiszha" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/aashiszha" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://replit.com/@aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
-<a href="https://codepen.io/Shovelbox" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
-<a href="https://www.youtube.com/@Shovelbox" target="_blank"><img alt="" src="https://img.shields.io/badge/Shovelbox%20-000?style=for-the-badge&logo=youtube&logoColor=white" style="vertical-align:center" /></a>
-<a href="mailto:bewithu.aj@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
-</p>
+
 
 
 
