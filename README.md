@@ -12,7 +12,7 @@
 <br/>
   
 
-
+Currently working on: Core system development for the 2026 Aichi-Nagoya Asian Games.
 
 
 
