@@ -4,6 +4,11 @@ on:
   schedule: # 03:00 KST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/profile-3d.yml
 
 permissions:
   contents: write
@@ -14,17 +19,28 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
+
+      - name: Check private contribution token
+        if: ${{ secrets.PROFILE_GITHUB_TOKEN == '' }}
+        run: |
+          echo "::warning::PROFILE_GITHUB_TOKEN is not set."
+          echo "::warning::The 3D graph will only include public contributions."
+          echo "::warning::Create a classic PAT with read:user and add it as PROFILE_GITHUB_TOKEN."
+
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          # Prefer a classic PAT with `read:user` so private contributions render.
-          # Repo Settings → Secrets → Actions → PROFILE_GITHUB_TOKEN
           GITHUB_TOKEN: ${{ secrets.PROFILE_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
       - name: Commit & Push
         run: |
           git config user.name shovelbox
           git config user.email axax1023@gmail.com
-          git add -A .
+          git add -A profile-3d-contrib/
+          if git diff --staged --quiet; then
+            echo "Graph already up to date."
+            exit 0
+          fi
           if git commit -m "Update contribution graph"; then
             git push
           fi
