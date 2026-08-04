@@ -1,49 +1,57 @@
 <h1 align="center">Shovelbox</h1>
-<p align="center"><code>.NET · desktop & systems</code></p>
-<br>
-
-```
-I build desktop experiences and the systems behind them.
-```
-
-<br>
-
-<table align="center">
-<tr><td><b>Stack</b></td><td>C# · .NET · WPF · WinUI 3</td></tr>
-<tr><td><b>Domain</b></td><td>Desktop applications · gRPC systems · Core platform development</td></tr>
-</table>
-
-<br>
-
-### Selected Works
-
-[**Log-in**](https://github.com/shovelbox/Log-in) — WinUI 3 login animation experiment. Focused on fluid motion and Fluent-style interaction.
-
-[**gRPC**](https://github.com/shovelbox/gRPC) — gRPC service/client exploration in .NET for structured, high-performance RPC.
-
-[**winUI3**](https://github.com/shovelbox/winUI3) — WinUI 3 playground for modern Windows desktop UI patterns.
-
-<br>
-
 <p align="center">
-Currently working on: Core system development for the 2026 Aichi-Nagoya Asian Games.
+  <b>.NET Systems Engineer</b><br/>
+  <code>desktop · platforms · large-scale event systems</code>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Now-2026_Aichi--Nagoya_Asian_Games-0A66C2?style=for-the-badge" alt="Asian Games 2026"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/WinUI_3-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinUI 3"/>
+</p>
+
+<br/>
+
+```
+Shipping core systems for venues that can't go down on game day.
+```
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td><b>Now</b></td>
+    <td>Core system development for the <b>2026 Aichi-Nagoya Asian Games</b></td>
+  </tr>
+  <tr>
+    <td><b>Stack</b></td>
+    <td>C# · .NET · WPF · WinUI 3 · gRPC</td>
+  </tr>
+  <tr>
+    <td><b>Domain</b></td>
+    <td>Event platforms · operator clients · service pipelines · reliability</td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,windows,git,github,docker,powershell,sqlite,postman" alt="skills"/>
+</p>
+
+<br/>
+
+### What I build
+
+- **Event core systems** — match/operation flows that stay up under peak load
+- **Desktop clients** — WPF / WinUI 3 tools for operators and staff
+- **Service layer** — gRPC/.NET backends connecting venues, clients, and data
+
+<br/>
 
 ---
 
 <a href="./profile-3d-contrib/profile-night-rainbow.svg">
-  <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph">
+  <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="contribution graph"/>
 </a>
-
----
-
-<p align="center">
-  <a href="https://github.com/shovelbox?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=shovelbox&theme=transparent&show_icons=true&hide_border=false&count_private=true" width="45%" alt="@shovelbox github-readme-stats" />
-  </a>
-  <a href="https://github.com/shovelbox?tab=overview&from=2026-01-01">
-    <img src="https://streak-stats.demolab.com?user=shovelbox&theme=shadow-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@shovelbox github-readme-streak-stats" />
-  </a>
-</p>
