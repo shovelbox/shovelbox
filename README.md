@@ -42,12 +42,6 @@ Shipping core systems for venues that can't go down on game day.
 
 <br/>
 
-### What I build
-
-- **Event core systems** — match/operation flows that stay up under peak load
-- **Desktop clients** — WPF / WinUI 3 tools for operators and staff
-- **Service layer** — gRPC/.NET backends connecting venues, clients, and data
-
 <br/>
 
 ---
