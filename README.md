@@ -13,9 +13,6 @@
 
 <br/>
 
-```
-Shipping core systems for venues that can't go down on game day.
-```
 
 <br/>
 
