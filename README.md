@@ -52,6 +52,6 @@ Shipping core systems for venues that can't go down on game day.
 
 ---
 
-<p align="center">
-  <img src="./assets/engineering-activity.svg" width="100%" alt="Systems activity map including private work"/>
-</p>
+<a href="./profile-3d-contrib/profile-night-rainbow.svg">
+  <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="contribution graph"/>
+</a>
